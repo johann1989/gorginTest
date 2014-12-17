@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/johann/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.4.1/eca2621f18b162c03992bd3ecc226e8a477dc6f9/gdx-backend-android-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="eca2621f18b162c03992bd3ecc226e8a477dc6f9">
+        <dex dex="/home/johann/test/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.4.1-42915649268d6f96e7953af91bc0cf94a7526894.jar" />
+    </item>
+    <item
+        jar="/home/johann/test/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="df20d495086f22c224939a3986b886453960259c">
+        <dex dex="/home/johann/test/android/build/intermediates/pre-dexed/debug/core-1.0-88f7d35c1d72ceeefddaa563d97b4324409f8264.jar" />
+    </item>
+    <item
+        jar="/home/johann/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.4.0/f7532801d6c1526df4a609341fa145acb9e8eb3a/gdx-ai-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f7532801d6c1526df4a609341fa145acb9e8eb3a">
+        <dex dex="/home/johann/test/android/build/intermediates/pre-dexed/debug/gdx-ai-1.4.0-7b48ebead2ef2631c86fc695e075f5e0125a85b9.jar" />
+    </item>
+    <item
+        jar="/home/johann/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.4.1/9e6453d244896698694a7f3059f15ae509044101/gdx-box2d-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9e6453d244896698694a7f3059f15ae509044101">
+        <dex dex="/home/johann/test/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.4.1-0a88af7c6727c1cd185eee6f7f69c298037ae18d.jar" />
+    </item>
+    <item
+        jar="/home/johann/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.4.1/df470d263438048af74860ca51fc497c16a0c76a/gdx-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="df470d263438048af74860ca51fc497c16a0c76a">
+        <dex dex="/home/johann/test/android/build/intermediates/pre-dexed/debug/gdx-1.4.1-a5075e1ed3dd86692748c0c4d6a41a0d6f744675.jar" />
+    </item>
+
+</items>

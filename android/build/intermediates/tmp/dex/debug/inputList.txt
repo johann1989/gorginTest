@@ -1,0 +1,6 @@
+/home/johann/test/android/build/intermediates/classes/debug
+/home/johann/test/android/build/intermediates/pre-dexed/debug/core-1.0-88f7d35c1d72ceeefddaa563d97b4324409f8264.jar
+/home/johann/test/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.4.1-0a88af7c6727c1cd185eee6f7f69c298037ae18d.jar
+/home/johann/test/android/build/intermediates/pre-dexed/debug/gdx-ai-1.4.0-7b48ebead2ef2631c86fc695e075f5e0125a85b9.jar
+/home/johann/test/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.4.1-42915649268d6f96e7953af91bc0cf94a7526894.jar
+/home/johann/test/android/build/intermediates/pre-dexed/debug/gdx-1.4.1-a5075e1ed3dd86692748c0c4d6a41a0d6f744675.jar
